@@ -1,5 +1,8 @@
-# React Udemy Project No.1
-Languages and Technologies used in this project.
+# ExpenseBar App
+### Udemy Project No.1
+### Course: React - The Complete Guide 2023 (incl. React Router & Redux) <br> <br>
+
+## Languages and Technologies used in this project.
 - HTML
 - CSS 
 - Javascript
