@@ -10,7 +10,7 @@
 
 ## How to run the project
 - Download the project zip file
-- CD into the directory `cd ExpenseBar-App`
+- CD into the directory
 - Install all packages with `npm install`
 - Start the server with `npm start`
 
